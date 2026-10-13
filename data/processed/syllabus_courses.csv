@@ -1,0 +1,67 @@
+﻿semester,course_code,course_title,lecture_hours,practical_hours,internal_marks,exam_marks,credits,category
+I,CS/IT111,Mathematics – I,3,0,30,70,3,BS
+I,CS/IT112,Engineering Physics,3,0,30,70,3,BS
+I,CS/IT113,Basic Electrical & Electronics Engineering,3,0,30,70,3,ES
+I,CS/IT114,Programming for Problem Solving,3,0,30,70,3,ES
+I,CS/IT151,Engineering Physics Lab,0,3,30,70,1.5,BS
+I,CS/IT152,Basic Electrical & Electronics Engineering Lab,0,3,30,70,1.5,ES
+I,CS/IT153,Engineering Graphics and Design Lab,1,4,30,70,3,ES
+I,CS/IT154,Programming for Problem Solving Lab,0,3,30,70,1.5,ES
+I,CS/IT MC1,Constitution of India,2,0,100,-,-,MC
+II,CS/IT121,Mathematics – II,3,0,30,70,3,BS
+II,CS/IT122,Engineering Chemistry,3,0,30,70,3,BS
+II,CS/IT123,Digital Electronics,3,0,30,70,3,ES
+II,CS/IT124,English for Communication Skills,3,0,30,70,3,HS
+II,CS/IT125,Programming in Python,2,0,30,70,2,ES
+II,CS/IT161,Engineering Chemistry Lab,0,3,30,70,1.5,BS
+II,CS/IT162,Programming in Python Lab,0,2,30,70,1,ES
+II,CS/IT163,Computer Engineering Workshop,0,3,30,70,1.5,ES
+II,CS/IT164,English Language Communication Skills Lab,0,3,30,70,1.5,HS
+II,CS/IT MC2,Environmental Science,2,0,100,-,-,MC
+III,CS/IT211,Probability and Statistics,3,0,30,70,3,BS
+III,CS/IT212,Discrete Mathematics,3,0,30,70,3,ES
+III,CS/IT213,Computer Organization,3,0,30,70,3,PC
+III,CS/IT214,Data Structures,3,0,30,70,3,PC
+III,CS/IT215,Object Oriented Programming,3,0,30,70,3,PC
+III,CS/IT251,Probability and Statistics with R Lab,0,3,30,70,1.5,PC
+III,CS/IT252,Data Structures Lab,0,3,30,70,1.5,PC
+III,CS/IT253,Object Oriented Programming Lab,0,3,30,70,1.5,PC
+III,CSSL1,Skill Oriented Course-I,1,2,100,-,2,SC
+III,CS/IT MC3,Design Thinking & Product Innovation,2,0,100,-,-,MC
+IV,CS/IT221,Computational Statistics,3,0,30,70,3,BS
+IV,CS/IT222,Database Management Systems,3,0,30,70,3,PC
+IV,CS/IT223,Operating Systems,3,0,30,70,3,PC
+IV,CS/IT224,Software Engineering,3,0,30,70,3,PC
+IV,CS/IT225,Web Technologies,3,0,30,70,3,PC
+IV,CS/IT261,Computational Statistics Lab,0,3,30,70,1.5,PC
+IV,CS/IT262,Database Management Systems Lab,0,3,30,70,1.5,PC
+IV,CS/IT263,Web Technologies Lab,0,3,30,70,1.5,PC
+IV,CSSL2,Skill Oriented Course-II,1,2,100,-,2,SC
+IV,CS/IT MC4,Ethics & Human Values,2,0,100,-,-,MC
+V,CS/IT311,Automata Theory & Formal Languages,3,0,30,70,3,PC
+V,CS/IT312,Computer Networks,3,0,30,70,3,PC
+V,CS/IT313,Design & Analysis of Algorithms,3,0,30,70,3,PC
+V,CS314,Professional Elective - I,3,0,30,70,3,PE
+V,CS315,Open / Job-oriented Elective - I,3,0,30,70,3,OE
+V,CS/IT351,Design & Analysis of Algorithms Lab,0,3,30,70,1.5,PC
+V,CS/IT352,Data Analysis Lab,0,3,30,70,1.5,PC
+V,CS/IT353,Summer Internship,-,-,100,-,1.5,PR
+V,CSSL3,Skill Oriented Course – III,1,2,100,-,2,SC
+VI,CS/IT321,Artificial Intelligence,3,0,30,70,3,PC
+VI,CS/IT322,Cryptography & Network Security,3,0,30,70,3,PC
+VI,CS/IT323,Machine Learning,3,0,30,70,3,PC
+VI,CS324,Professional Elective -II,3,0,30,70,3,PE
+VI,CS325,Open / Job Oriented Elective - II,3,0,30,70,3,OE
+VI,CS/IT361,Artificial Intelligence lab,0,3,30,70,1.5,PC
+VI,CS362,Machine Learning Lab,0,3,30,70,1.5,PC
+VI,CS/IT363,Term Paper,0,3,100,-,1.5,PR
+VI,CSSL4,Skill Oriented Course – IV,1,2,100,-,2,SC
+VII,CS411,Humanities and Social Sciences (Elective),3,0,30,70,3,HS
+VII,CS412,Professional Elective - III,3,0,30,70,3,PE
+VII,CS413,Professional Elective - IV,3,0,30,70,3,PE
+VII,CS414,Professional Elective – V (MOOCS),0,0,-,100,3,PE
+VII,CS415,Open / Job Oriented Elective - III,3,0,30,70,3,OE
+VII,CS416,Open / Job Oriented Elective – IV (MOOCS),0,0,-,100,3,HS
+VII,CS451,Internship / Professional Certification,-,-,100,-,3,PR
+VII,CSSL5,Skill Oriented Course – V,1,2,100,-,2,SC
+VIII,CS/IT461,"Project Work (Project Work, Seminar and internship)",0,12,30,70,12,PR

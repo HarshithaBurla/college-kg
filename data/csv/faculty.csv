@@ -1,0 +1,4 @@
+id,name,email,designation,department_id
+F001,Ravi Kumar,ravi@example.com,Assistant Professor,D001
+F002,Priya Sharma,priya@example.com,Associate Professor,D001
+F003,John Smith,john@example.com,Assistant Professor,D001

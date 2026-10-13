@@ -1,0 +1,6 @@
+id,name,credits,department_id,program_id
+S001,Data Structures,4,D001,P001
+S002,Operating Systems,4,D001,P001
+S003,Database Management Systems,4,D001,P001
+S004,Computer Networks,4,D001,P001
+S005,Machine Learning,3,D001,P001

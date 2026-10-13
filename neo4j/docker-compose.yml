@@ -1,0 +1,22 @@
+services:
+  neo4j:
+    image: neo4j:community
+    container_name: college-neo4j
+
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+
+    environment:
+      NEO4J_AUTH: neo4j/CollegeKG@2026
+
+    volumes:
+      - neo4j_data:/data
+      - neo4j_logs:/logs
+      - ./imports:/var/lib/neo4j/import
+
+    restart: unless-stopped
+
+volumes:
+  neo4j_data:
+  neo4j_logs:
